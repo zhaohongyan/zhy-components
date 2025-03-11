@@ -1,0 +1,8 @@
+:root {
+    --zhy-primary-color: #409eff;
+    --zhy-white-color: #fff;
+    --zhy-black-color: #000;
+    --zhy-border-radius-base: 4px;
+    --zhy-border-color: #dcdfe6;
+    --zhy-box-shadow-light: 0px 0px 12px rgba(0, 0, 0, .12);
+}
