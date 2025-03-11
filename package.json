@@ -7,6 +7,11 @@
     "dist"
   ],
   "main": "main.ts",
+  "homepage": "https://github.com/zhaohongyan/zhy-components/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaohongyan/zhy-components.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
